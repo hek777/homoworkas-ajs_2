@@ -1,0 +1,34 @@
+{
+  "name": "homoworkas-ajs_1",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hek777/homoworkas-ajs_2.git"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "Voinov Nikita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hek777/homoworkas-ajs_2/issues"
+  },
+  "homepage": "https://github.com/hek777/homoworkas-ajs_2#readme",
+  "devDependencies": {
+    "babel-loader": "^8.1.0",
+    "css-loader": "^4.3.0",
+    "html-webpack-plugin": "^4.4.1",
+    "mini-css-extract-plugin": "^0.11.2",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
