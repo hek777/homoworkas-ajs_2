@@ -1,0 +1,22 @@
+{
+  "name": "homoworkas-ajs_2.2",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hek777/homoworkas-ajs_2.2.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Voinov Nikita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hek777/homoworkas-ajs_2.2/issues"
+  },
+  "homepage": "https://github.com/hek777/homoworkas-ajs_2.2#readme"
+}
