@@ -10,6 +10,12 @@ module.exports = {
                 ],
             },
         ],
+        rules: [
+            {
+                test: /\.js$/,
+                use: 'raw-loader'
+            },
+        ],
     },
     entry: './src/index.js',
     output: {
